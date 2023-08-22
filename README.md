@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: <h1>I'm MAHESH CHEEMA</h1>
 IPod project with react<br><br><br>
 <h3>As a recent graduate with a Bachelor's degree in Commerce with Computer Applications, I possess a solid foundation in financial accounting and information technology. I am a quick learner and enjoy working in a dynamic and challenging environment. Throughout my academic career, I have demonstrated strong analytical and problem-solving skills, as well as a keen attention to detail. I am a team player who values collaboration and enjoys working with others to achieve common goals. I am now eager to apply my skills and knowledge to contribute.</h3>
 
