@@ -7,7 +7,6 @@
   <br />
 <img src="https://nirzak-streak-stats.vercel.app/?user=CheemaMahesh&theme=dark&hide_border=false" alt="Streek stats" />
 </div>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
