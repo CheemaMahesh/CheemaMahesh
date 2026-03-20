@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/CheemaMahesh">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Frontend+Focused+Full+Stack+Dev;React+%7C+Next.js+%7C+Node.js;1.2%2B+Years+Experience;Building+Clean+%26+Scalable+Apps" />
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Frontend+Focused+Full+Stack+Dev;React+%7C+Next.js+%7C+Node.js;2%2B+Years+Experience;Building+Clean+%26+Scalable+Apps" />
   </a>
 </p>
 
